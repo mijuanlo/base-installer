@@ -1,4 +1,4 @@
-base-installer (1:1.158ubuntu4) bionic; urgency=medium
+base-installer (1.158ubuntu4+lliurex1) bionic; urgency=medium
 
   * Make default lliurex keyring
 
